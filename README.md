@@ -1,16 +1,10 @@
-# wally
+#  Primeiro_App_Flutter
 
-A new Flutter project.
+Um simples projeto Flutter.
+A simple Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+O projeto consiste em uma aplicação que gera nomes aleatórios e você pode 'Gostar' de nomes gerados e eles ficarão salvos na aba "Favoritos".
+The project consist in an application that generate random names and you can 'Like' generated names and they will be saved on the tab "Favorites".
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O projeto foi aprendizado do seguinte link: https://codelabs.developers.google.com/codelabs/flutter-codelab-first
